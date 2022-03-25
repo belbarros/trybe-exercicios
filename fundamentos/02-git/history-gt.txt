@@ -1,0 +1,387 @@
+    1  sudo update-grub
+    2  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+    3  -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+    4  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+    5  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+    6  nvm install 14
+    7  nvm install 14
+    8  node -v
+    9  sudo snap install spotify
+   10  sudo snap install zoom
+   11  sudo snap install spotify
+   12  cd /
+   13  ls
+   14  ls -a
+   15  cd users
+   16  cd home
+   17  ls
+   18  ls -a
+   19  cd izabel
+   20  ls
+   21  clear
+   22  ls
+   23  cd music
+   24  cd Music
+   25  ls
+   26  mkdir trybe
+   27  ls
+   28  cd trybe
+   29  cd .
+   30  cd ..
+   31  pwd
+   32  cd /
+   33  ls
+   34  cd home
+   35  ls
+   36  cd izabel
+   37  ls
+   38  cd music
+   39  cd Music
+   40  ls
+   41  cd trybe
+   42  ls
+   43  clear
+   44  ls
+   45  cp arquivo 1 arquivo 2
+   46  cp arquivo 1 arquivo2
+   47  ls
+   48  cp arquiv 1.txt arquivo2.txt
+   49  cp arquivo 1 trybe
+   50  cp arquivo 1
+   51  ls
+   52  cp arquivo1
+   53  cp arquivo1 trybe arquivo2
+   54  arquivo1 trybe
+   55  cp --help
+   56  cp arquivo1 arquivo2
+   57  ls
+   58  cat arquivo1
+   59  clear
+   60  ls
+   61  pwd
+   62  mv arquivo2 /home/izabel/Music
+   63  cd Music
+   64  cd ..
+   65  ls
+   66  clear
+   67  ls
+   68  rm arquivo2
+   69  ls
+   70  mkdir medeleta
+   71  ls
+   72  rmdir medelta
+   73  rmdir medeleta
+   74  ls
+   75  touch arquivo11
+   76  ls
+   77  rm arquivo11
+   78  ls
+   79  cd trybe
+   80  touch filmes
+   81  ls
+   82  clear
+   83  ls
+   84  cat filmes
+   85  less filmes
+   86  head filmes
+   87  head -3 filmes
+   88  head -11 filmes
+   89  clear
+   90  cd ..
+   91  ls *
+   92  cd
+   93  ls
+   94  cd Documents
+   95  ls
+   96  cd Trybe
+   97  clear
+   98  mkdir unix_tests
+   99  ls
+  100  cd unix_testes
+  101  cd unix_tests
+  102  touch trybe.txt
+  103  ls
+  104  /clear
+  105  clear
+  106  cp trybe.txt
+  107  cp trybe.txt trybe_backup.txt
+  108  ls
+  109  mv trybe.txt trybe1.txt
+  110  ls
+  111  mkdir backup
+  112  ls
+  113  mv trybe_backup.txt backup/
+  114  ls
+  115  mkdir backup2
+  116  ls
+  117  mv /backup/trybe_backup.txt /unix_tests/backup2/
+  118  mv backup/trybe_backup.txt unix_tests/backup2/
+  119  cd backup
+  120  ls
+  121  mv trybe_backup.txt ../backup2/
+  122  ls
+  123  ..
+  124  cd ..
+  125  ls
+  126  cd backup2
+  127  ls
+  128  cd ..
+  129  ls
+  130  rmdir backup
+  131  ls
+  132  mv backup2 backup
+  133  ls
+  134  pwd
+  135  ls
+  136  rmdir -r backup
+  137  rm -r backup
+  138  ls
+  139  clear
+  140  ls
+  141  cp trybe1.txt
+  142  cp trybe1.txt skills.txt
+  143  ls
+  144  head -5 skills.txt
+  145  tail -4 skills.txt
+  146  rm *.txt
+  147  ls
+  148  curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"
+  149  sudo 
+  150  sudo curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"
+  151  s
+  152  ls
+  153  clear
+  154  curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"
+  155  curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"
+  156  sudo apt install curl
+  157  clear
+  158  curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"
+  159  ls
+  160  cat countries.txt
+  161  clear
+  162  less countries.txt
+  163  less contries.txt
+  164  less countries.txt
+  165  grep Brasil countries.tct
+  166  grep Brazil countries.txt
+  167  grep -i brazil countries.txt
+  168  touch phrases.txt
+  169  grep -iv 'fox'
+  170  ls
+  171  cd Documents
+  172  ls
+  173  cd Trybe
+  174  ls
+  175  cd unix_tests
+  176  ls
+  177  grep -iv 'fox' phrases.txt
+  178  wc phrases.txt
+  179  touch empty.tbt empty.pdf
+  180  ls
+  181  ls *.txt
+  182  ls *.txt *.tbt
+  183  man ls
+  184  cd
+  185  ls
+  186  cd Documents
+  187  ls
+  188  cd Trybe
+  189  touch cores.txt
+  190  ls
+  191  mv cores.txt unix_tests/
+  192  ls
+  193  cd unix_tests
+  194  cat > cores.txt
+  195  ls
+  196  cat cores.txt
+  197  cat >> cores.txt
+  198  cat cores.txt
+  199  cat > frutas.txt
+  200  ls
+  201  clear
+  202  cat cores.txt frutas.txt > tudo.txt
+  203  ls
+  204  cat tudo.txt
+  205  sort < cores.txt
+  206  sort < cores.txt > coresOrdenadas.txt
+  207  ls
+  208  who
+  209  clear
+  210  cat > nomes.txt
+  211  cat nomes.txt
+  212  cat > nomes.txt
+  213  cat nomes.txt
+  214  cat >> nomes.txt
+  215  cat nomes.txt
+  216  grep F nomes.txt | sort
+  217  cat > arquivo.txt
+  218  ls
+  219  ls -l
+  220  ps
+  221  clear
+  222  jobs
+  223  ls -l
+  224  who
+  225  ls
+  226  sort nomes.txt
+  227  sort nomes.txt > nomesOrdenados.txt
+  228  ls
+  229  cat nomesOrdenados.txt
+  230  clear
+  231  touch skills2.txt
+  232  cat > skills2.txt
+  233  cat >> skills2.txt
+  234  cat skills2.txt
+  235  sort skills2.txt
+  236  sort skills2.txt > top_skills.txt
+  237  ls
+  238  touch phrases2.txt
+  239  cat > phrases2.txt
+  240  xc -l br
+  241  wc -l br
+  242  wc -l br phrases.txt
+  243  wc -l br phrases2.txt
+  244  clear
+  245  grep -i 'br' | wc -l phrases2.txt
+  246  grep -i 'br' phrases2.txt | wc -l
+  247  grep -iv 'br' phrases2.txt | wc -l
+  248  cat >> phrases2.txt
+  249  cat phrases2.txt
+  250  cat phrases2.txt countries.txt > bunchOfThings.txt
+  251  ls
+  252  sort bunchOfThings.txt
+  253  clear
+  254  ls -l
+  255  chmod o+w
+  256  chmod o+w bunchOfThings.txt
+  257  ls -l
+  258  chmod a-w bunchOfThings.txt
+  259  ls -l
+  260  chmod 644 bunchOfThings.txt
+  261  ls -l
+  262  clear
+  263  sleep 30 &
+  264  ps
+  265  kill 11923
+  266  clear
+  267  ls
+  268  clear
+  269  ps
+  270  sleep 60 &
+  271  kill %1
+  272  ps
+  273  clear
+  274  ps
+  275  sleep 100 &
+  276  ps
+  277  kill 11940
+  278  ps
+  279  sleep 60
+  280  bg %1
+  281  ps
+  282  sleep 300 &
+  283  sleep 200
+  284  bg %3
+  285  sleep 100
+  286  bg 
+  287  bg %4
+  288  clear
+  289  ps
+  290  jobs
+  291  fg %2
+  292  kill 2
+  293  kill %2
+  294  kill %3
+  295  kill %4
+  296  jobs
+  297  clear
+  298  sudo apt-get install fortune
+  299  fortune
+  300  clear
+  301  fortune
+  302  factor 5
+  303  factor 13213
+  304  rev izabel
+  305  rev
+  306  sudo apt-get install git-all
+  307  git config --global user.name "Izabel de Barros"
+  308  git config --global user.email izabelfeigel@gmail.com
+  309  clear
+  310  git config --global core.editor "code --wait"
+  311  code .gitconfig
+  312  git --version
+  313  git config --list
+  314  clear
+  315  ssh-keygen -t rsa -b 4096 -C "izabelfeigell@gmail.com"
+  316  eval "$(ssh-agent -s)"
+  317  ssh-add ~/.ssh/id_rsa
+  318  cat ~/.ssh/id_rsa.pub
+  319  clear
+  320  ls
+  321  cd Documents
+  322  ls
+  323  cd Trybe
+  324  ls
+  325  mkdir Git
+  326  cd Git
+  327  touch trybe-skills.txt
+  328  cat > trybe-skills.txt
+  329  ls -l
+  330  clear
+  331  ls
+  332  cd ..
+  333  ls
+  334  cd trybe-exercicios
+  335  ls
+  336  cd fundamentos
+  337  ls
+  338  cd 02-git
+  339  touch trybe-skills.txt
+  340  cat > trybe-skills.txt
+  341  ls -l
+  342  cd ../trybe-exercicios
+  343  cd ..
+  344  cd trybe-exercicios
+  345  clear
+  346  git init
+  347  touch README.md
+  348  git add.
+  349  git add .
+  350  git commit -m "Initial commit"
+  351  git remote add origin "git@github.com:belbarros/trybe-exercicios.git"
+  352  git remote -v
+  353  git push origin master
+  354  git push origin main
+  355  git push origin master
+  356  cat > README.md
+  357  git push origin master
+  358  s
+  359  ls
+  360  cat README.md
+  361  git remote -v
+  362  clear
+  363  git push origin main
+  364  git push origin master
+  365  git status
+  366  ls
+  367  cd fundamentos
+  368  ls
+  369  cd 02-git
+  370  touch meu-arquivo.txt
+  371  cat > meu-arquivo.txt
+  372  git status
+  373  git add .
+  374  git commit -m "Cria o arquivo meu-arquivo.txt"
+  375  git remote -v
+  376  git status
+  377  git commit
+  378  git commit -a
+  379  git status
+  380  git push origin master
+  381  git commit --amend
+  382  git status
+  383  git pull
+  384  git push origin master
+  385  git pull origin mater
+  386  git pull origin master
+  387  history | cat >> history-gt.txt
