@@ -3,7 +3,6 @@ div:hover {
     border: 3px solid black;
 }
 
-
 div:first-of-type {
     background-color: red;
 }
@@ -20,7 +19,7 @@ div:nth-of-type(4) {
     background-color: brown;
 }
 
-div:last-of-type {
+div:nth-of-type(5) {
     background-color: bisque;
 }
 
@@ -28,7 +27,7 @@ div:first-of-type h3 {
     font-family: serif;
     font-weight: 700;
     font-size: 20px;
-    font-style: italic;
+   /* font-style: italic; */
 }
 
 div:nth-of-type(2) h3 {
@@ -39,7 +38,7 @@ div:nth-of-type(2) h3 {
 div:nth-of-type(3) h3 {
     font-family: monospace;
     font-size: 60px;
-    font-style: italic;
+   /* font-style: italic; */
 }
 
 div:nth-of-type(4) h3 {
@@ -50,5 +49,11 @@ div:nth-of-type(4) h3 {
 div:nth-of-type(5) h3 {
     font-size: 15px;
     font-weight: 900;
+    /* font-style: italic; */
+}
+
+body div:nth-child(odd) {
     font-style: italic;
+    text-transform: uppercase;
+    
 }
