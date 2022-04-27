@@ -13,7 +13,7 @@
     <h1>Formulário Trybetrip</h1>
 </header>
 
-<form action="" method="GET">
+<form action="" method="GET" id="trybeTrip">
     <label for="name">Nome:
         <input type="text" name="name" id="name" minlength="10" maxlength="40">
     </label>
@@ -54,9 +54,11 @@
     <label for="montanha">Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.</label>
     <br><br>
 
-    <button type="submit">Enviar</button>
+    <button type="submit" id="btnSubmit">Enviar</button>
+
+    <button type="submit" id="btnClear">Limpar</button>
 
 </form>
-
+<script src="scriptForm.js"></script>
 </body>
 </html>
